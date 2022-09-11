@@ -1,4 +1,4 @@
-#Ushbu loyiha React kutubxonasi orqali qurildi.
+# Ushbu loyiha React kutubxonasi orqali qurildi.
 
 ### -> Fortnite API <a href="https://fortniteapi.io/v2/shop?lang=en">https://fortniteapi.io/v2/shop?lang=en</a>dan foydalangan holda;
 
@@ -6,7 +6,7 @@
 Loyihaning asosiy vazifasi: Foydalanuvhci sotib olgan mahsulotlarning ma'lumotlarini bir oynadan ikinchisiga olib saralashdan iborat. Xuddi online
 magazinlardagi kabi</pre>
 
-###Loyiha: <a href="https://golden-begonia-108368.netlify.app/" target="_blank">website ni ko'rish</a> 
+### Loyiha: <a href="https://golden-begonia-108368.netlify.app/" target="_blank">website ni ko'rish</a> 
 
 # Getting Started with Create React App
 
